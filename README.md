@@ -166,13 +166,19 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
+BEFORE:
 
+![Screenshot (150)](https://github.com/charumathiramesh/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120204455/7e18f853-4665-4d1a-8547-08470ec439af)
 
+AFTER:
+
+![Screenshot (153)](https://github.com/charumathiramesh/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120204455/4a1ff47f-0d88-43a8-a51e-1af4f812ac30)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
+ ![Screenshot (155)](https://github.com/charumathiramesh/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120204455/e9e19f45-f6cd-4135-a5ef-0ce4bb11afbc)
+
  
  
 ## Result :
